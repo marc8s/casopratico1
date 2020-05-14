@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pratica13</string>
+    <string name="chamar">CHAMAR</string>
+    <string name="marcarchamar">MARCAR E CHAMAR</string>
+    <string name="numerotel">Número Telefone</string>
+</resources>

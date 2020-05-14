@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fundo_titulo"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/feedTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/traco"
+        android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+    <TextView
+        android:id="@+id/feedData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="@string/traco"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#777"/>
+
+    <TextView
+        android:id="@+id/feedFrase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text" />
+</LinearLayout>

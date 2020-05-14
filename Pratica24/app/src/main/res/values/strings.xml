@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pratica24</string>
+    <string name="celsius">Celsius</string>
+    <string name="botao">CONVERTER PARA FAHRENHEIT</string>
+</resources>

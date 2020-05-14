@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/act1"
+        android:icon="@drawable/um"
+        app:showAsAction="always|withText"
+        android:title="@string/act1"/>
+    <item
+        android:id="@+id/act2"
+        android:icon="@drawable/dois"
+        app:showAsAction="ifRoom"
+        android:title="@string/act2"/>
+    <item
+        android:id="@+id/act3"
+        android:icon="@drawable/tres"
+        app:showAsAction="ifRoom"
+        android:title="@string/act3"/>
+    <item
+        android:id="@+id/act4"
+        android:icon="@drawable/quatro"
+        app:showAsAction="ifRoom"
+        android:title="@string/act4"/>
+    <item
+        android:id="@+id/act5"
+        android:icon="@drawable/cinco"
+        app:showAsAction="always|withText"
+        android:title="@string/act5"/>
+
+
+
+
+</menu>

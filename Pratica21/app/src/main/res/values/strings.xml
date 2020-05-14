@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pratica21</string>
+    <string name="traco">-</string>
+    <string name="a_carregar">A carregar...</string>
+    <string name="nao_ha_feeds">não há artigos hm</string>
+    <string name="titulo_noticias">Noticias</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

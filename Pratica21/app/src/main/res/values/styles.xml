@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Titulo" parent="@android:style/TextAppearance.Small">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#777777</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">3dip</item>
+    </style>
+
+    <style name="FundoTitulo">
+        <item name="android:background">@drawable/fundo_titulo</item>
+    </style>
+    <style name="MeuBotao" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textColor">#afa</item>
+    </style>
+
+    <style name="TituloLaranja" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#F56200</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

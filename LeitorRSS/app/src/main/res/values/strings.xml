@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LeitorRSS</string>
+    <string name="hello_world">Hello world</string>
+    <string name="action_settings">Settings</string>
+    <string name="nao_ha_feed">Não existem artigos.</string>
+    <string name="titulo_noticias">Noticias</string>
+    <string name="acerca_de">
+        <b>Curso Android - Unidade didatica 13</b>
+        \n\n (c) 2015 Master.D\n
+        Telefone:210402403 \n\n
+        www.masterd.pt
+    </string>
+    <string name="loading_widget">A carregar...</string>
+    <string name="widget_rss">Master.D</string>
+</resources>

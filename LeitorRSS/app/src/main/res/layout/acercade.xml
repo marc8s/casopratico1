@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:autoLink="all"
+    android:background="#eee"
+    android:gravity="center"
+    android:text="Curso Android - Unidade 13"
+    android:textColor="#ffff100e"/>

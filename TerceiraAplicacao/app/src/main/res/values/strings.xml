@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Terceira Aplicacao</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="botao1">Atividade 2</string>
+    <string name="botao2">Atividade 3</string>
+    <string name="botao3">Voltar</string>
+</resources>

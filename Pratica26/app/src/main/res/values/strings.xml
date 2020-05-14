@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pratica26</string>
+    <string name="bt1">Cão</string>
+    <string name="bt2">Gato</string>
+    <string name="bt3">Cavalo</string>
+    <string name="bt4">Ovelha</string>
+    <string name="bt5">Porco</string>
+</resources>

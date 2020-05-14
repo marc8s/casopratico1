@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1st Exercise</string>
+    <string name="titulo">Choose an Option</string>
+    <string name="btn1">ENTER CITIES</string>
+    <string name="btn2">CITIES MAP</string>
+    <string name="btn3">DATE</string>
+    <string name="btn4">CALLING</string>
+    <string name="btn5">SMS</string>
+    <string name="btn6">DEVELOPER</string>
+    <string name="titulo_infodeveloper">Developer data:</string>
+    <string name="nome_infodeveloper">Name: Marcus Assis</string>
+    <string name="telefone_infodeveloper">Phone: 936 160 579</string>
+    <string name="local_infodeveloper">City: Lisboa</string>
+    <string name="btnguardacidade">Add City</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnguardaaniversario">Save Information</string>
+    <string name="faltam">Missing</string>
+    <string name="dias">days</string>
+    <string name="para">For your</string>
+    <string name="aniversario">birthday!</string>
+    <string name="enviosms">Send SMS</string>
+    <string name="btnenviarsms">Send Message</string>
+    <string name="selecionanumero">Select number</string>
+    <string name="mensagemvazia">It is not possible to send a empty message!</string>
+    <string name="smsenviada">SMS sent</string>
+    <string name="mensagemerro">Somethings is wrong, try again!</string>
+    <string name="ok">Ok</string>
+
+
+</resources>

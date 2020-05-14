@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+    <item
+        android:id="@+id/act1"
+        android:icon="@drawable/gravador"
+        android:title="@string/action1"
+        app:showAsAction="always|withText"
+
+        />
+    <item
+        android:id="@+id/act2"
+        android:icon="@drawable/publico"
+        android:title="@string/action2"
+        app:showAsAction="always|withText"
+
+        />
+    <item
+        android:id="@+id/act3"
+        android:icon="@drawable/tsf"
+        android:title="@string/action3"
+        app:showAsAction="always|withText"
+
+        />
+    <item
+        android:id="@+id/act4"
+        android:icon="@drawable/correio"
+        android:title="@string/action4"
+        app:showAsAction="always|withText"
+
+        />
+
+</menu>

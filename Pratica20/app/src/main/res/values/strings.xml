@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pratica20</string>
+    <string name="data">Por favor indique a data de aniversário</string>
+    <string name="botao">Confirmar data</string>
+    <string name="faltam">Faltam</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

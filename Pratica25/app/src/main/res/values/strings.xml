@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pratica25</string>
+    <string name="act1">Atividade 1</string>
+    <string name="act2">Atividade 2</string>
+    <string name="act3">Atividade 3</string>
+    <string name="act4">Atividade 4</string>
+    <string name="act5">Atividade 5</string>
+    <string name="title_activity_classe1">Classe 1</string>
+    <string name="title_activity_classe2">Classe 2</string>
+    <string name="title_activity_classe3">Classe 3</string>
+    <string name="title_activity_classe4">Classe 4</string>
+    <string name="title_activity_classe5">Classe 5</string>
+    <string name="autor">Criado por: Marcus Assis</string>
+</resources>

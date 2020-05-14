@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pratica23</string>
+    <string name="atualizar">Atualizar Dados</string>
+    <string name="sem_dados">Sem Dados</string>
+</resources>

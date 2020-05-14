@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/basedados"
+        android:title="@string/ttm_basedados" />
+    <item
+        android:id="@+id/arminterno"
+        android:title="@string/ttm_armint"
+        android:icon="@mipmap/ic_launcher_professor"/>
+    <item
+        android:id="@+id/toast"
+        android:title="@string/ttm_toast"
+        android:icon="@mipmap/ic_launcher_professor"/>
+    <item
+        android:id="@+id/contatoAgenda"
+        android:title="@string/ttm_contatoAgenda"/>
+    <item
+        android:id="@+id/contatosProvider"
+        android:title="@string/ttm_contatoProvider" />
+    <item
+        android:id="@+id/preferenciasCor"
+        android:title="@string/bt_mudarcor" />
+    <item
+        android:id="@+id/menusair"
+        android:title="@string/sair" />
+
+</menu>

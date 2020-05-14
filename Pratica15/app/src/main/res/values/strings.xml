@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pratica 15</string>
+    <string name="texto_verde">Aproxima-te para mudar de cor!</string>
+    <string name="texto_vermelho">Afasta-te para verde!</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">1º Caso Prático</string>
+    <string name="titulo">Escolhe uma Opção</string>
+    <string name="btn1">CIDADES INTRODUÇÃO</string>
+    <string name="btn2">CIDADES MAPA</string>
+    <string name="btn3">DATA</string>
+    <string name="btn4">CHAMAR</string>
+    <string name="btn5">SMS</string>
+    <string name="btn6">CRIADOR</string>
+    <string name="titulo_infodeveloper">Dados do Criador:</string>
+    <string name="nome_infodeveloper">Nome: Marcus Assis</string>
+    <string name="telefone_infodeveloper">Telefone: 936 160 579</string>
+    <string name="local_infodeveloper">Localidade: Lisboa</string>
+    <string name="btnguardacidade">Guardar Cidade</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnguardaaniversario">Guardar Informação</string>
+    <string name="faltam">Faltam</string>
+    <string name="dias">dias</string>
+    <string name="para">Para o teu</string>
+    <string name="aniversario">aniversário!</string>
+    <string name="enviosms">Envio de SMS</string>
+    <string name="btnenviarsms">Enviar Mensagem</string>
+    <string name="selecionanumero">Seleciona número</string>
+    <string name="mensagemvazia">Não é possivel enviar uma mensagem em branco!</string>
+    <string name="smsenviada">SMS enviada</string>
+    <string name="mensagemerro">Ocorreu um erro, tente novamente!</string>
+    <string name="ok">Ok</string>
+
+</resources>
